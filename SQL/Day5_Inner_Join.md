@@ -1,14 +1,15 @@
 # Day 5 - INNER JOIN
 
-## Date: 13  july 2026
+### Date: 13  july 2026
 
 ## Objective
 
 Understand why JOINS are needed and learn how to combine data from two related tables using INNER JOIN.
+JOINS are needed to combine data from two or more related tables using a common column. They help retrieve complete and meaningful information that cannot be obtained from a single table.
 
 ## What is INNER JOIN?
 
-(Definition)
+INNER JOIN is used to combine data from two or more tables based on a common column. It returns only the rows that have matching values in both tables.
 
 ## Syntax
 
